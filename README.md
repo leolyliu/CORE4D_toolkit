@@ -19,4 +19,4 @@ pip install transforms3d==0.4.1
 
 To load the ```rawdata.npz```, please use ```rawdata_loader.py```.
 
-The BVH human skeleton includes 59 joints shown in the figure ```human_bvh_skeleton.png```.
+The BVH human skeleton includes 59 joints shown in the figure ```human_bvh_skeleton.pdf```.
